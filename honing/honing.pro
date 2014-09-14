@@ -1,6 +1,6 @@
 QT       += core gui opengl widgets
 
-TARGET = DRILL
+TARGET = honing
 TEMPLATE = app
 
 CONFIG   += console
